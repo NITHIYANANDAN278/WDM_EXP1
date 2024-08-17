@@ -54,9 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### Employee data
-![img](./images/employee.png)
+![img](./employee.png)
 ##### Weather data
-![img](./images/weather.png)
+![img](./weather.png)
 
 
 ### PREPROCESSING
@@ -79,9 +79,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### Employee data
-![img](./images/employee_add.png)
+![img](./employee_add.png)
 ##### Weather data
-![img](./images/weather_add.png)
+![img](./weather_add.png)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -99,9 +99,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### Employee data
-![img](./images/employee_remove.png)
+![img](./employee_remove.png)
 ##### Weather data
-![img](./images/weather_remove.png)
+![img](./weather_remove.png)
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -118,8 +118,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### Employee data
-![img](./images/employee_normalize.png)
+![img](./employee_normalize.png)
 ##### Weather data
-![img](./images/weather_normalize.png)
+![img](./weather_normalize.png)
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
